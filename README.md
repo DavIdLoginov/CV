@@ -31,9 +31,9 @@ _Sep 2022 - Nov 2022_
 * Writing authorization and user registration logic;
 * Trello task tracking;
 
-_Technologies used:_ **React**, **Redux Toolkit**, **JavaScript**, **HTML**, **SCSS**, **REST API**, **Material UI**
-
 _Skills used:_ **Trello**, **Chrome Developer Tools**, 
+
+_Technologies used:_ **React**, **Redux Toolkit**, **JavaScript**, **HTML**, **SCSS**, **REST API**, **Material UI**
 
 **Front-end Developer** – Ask ink, Bishkek
 
@@ -44,12 +44,12 @@ _Feb 2023 - Jul 2023_
 * Development of forms and validation Feature Sliced Design;
 * Landing page layout;
 * Frontend application optimization using SSR;
-* Teaching and coaching new team members;
 * Using Notion, to organize and track work tasks, priorities and due dates
-
-_Technologies used:_**OpenAPI**, **Material UI**, **Yup**, **Formik**, **React**, **Redux Toolkit**, **Typescript**, **HTML**, **Next**
+* Teaching and coaching new team members;
 
 _Skills used:_ **FSD**, **Notion**, **Scrum**
+
+_Technologies used:_**OpenAPI**, **Material UI**, **Yup**, **Formik**, **React**, **Redux Toolkit**, **Typescript**, **HTML**, **Next**
 
 ## Personal qualities
 
