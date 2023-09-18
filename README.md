@@ -32,6 +32,7 @@ _Sep 2022 - Nov 2022_
 * Trello task tracking;
 
 _Technologies used:_ **React**, **Redux Toolkit**, **JavaScript**, **HTML**, **SCSS**, **REST API**, **Material UI**
+
 _Skills used:_ **Trello**, **Chrome Developer Tools**, 
 
 **Front-end Developer** – Ask ink, Bishkek
@@ -45,7 +46,9 @@ _Feb 2023 - Jul 2023_
 * Frontend application optimization using SSR;
 * Teaching and coaching new team members;
 * Using Notion, to organize and track work tasks, priorities and due dates
+
 _Technologies used:_**OpenAPI**, **Material UI**, **Yup**, **Formik**, **React**, **Redux Toolkit**, **Typescript**, **HTML**, **Next**
+
 _Skills used:_ **FSD**, **Notion**, **Scrum**
 
 ## Personal qualities
