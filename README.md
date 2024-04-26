@@ -14,15 +14,15 @@ _Front-end developer・JavaScript・TypeScript・React・Redux Toolkit_
 
 * [**It Academy**](http://it-academy.kg/) (Mar 2022 - Dec 2022)
 _Javascript (React)_
-**About the project** - It-academy is a programming course where I completed a 9-month Front-end developer course
+About the project - It-academy is a programming course where I completed a 9-month Front-end developer course
 
 ## Experience
+
 
 **Front-end Developer** – Linght Code, Bishkek
 
 _Sep 2022 - Nov 2022_
-
-**About the project** - Linght Code is a young outsourcing company where I worked as an intern Front-end developer. We developed a CRM system for the shoe company “B-STYLE SHOES”
+About the project - Linght Code is a young outsourcing company where I worked as an intern Front-end developer. We developed a CRM system for the shoe company “B-STYLE SHOES”
 
 * Improved the speed of loading and displaying all data by 40% by introducing convenient dynamic tables and writing new Axios queries
 * Developed a registration and authorization form in a week using a component approach and the Material UI library.
@@ -32,11 +32,11 @@ _Skills used:_ **Trello**, **Chrome Developer Tools**,
 
 _Technologies used:_ **React**, **Redux Toolkit**, **JavaScript**, **HTML**, **SCSS**, **REST API**, **Material UI**
 
+
 **Front-end Developer** – Ask inс, Bishkek
 
 _Feb 2023 - Nov 2023_
-
-**About the project** - I joined a young startup that is developing a marketplace for the domestic market of the Kyrgyz Republic.
+About the project - I joined a young startup that is developing a marketplace for the domestic market of the Kyrgyz Republic.
 
 * Optimized the speed and performance of the application using Server-Side Rendering (SSR). Reduced data transfer volume and improved SEO metrics, increasing the application's visibility in search results.
 * Created a multi-page registration form using MaterialUI and JWT authentication, which provides a simple and clean appearance and reduces login time.
@@ -52,12 +52,11 @@ _Technologies used:_**OpenAPI**, **Material UI**, **Yup**, **Formik**, **React**
 **Front-end Developer** – Hillme, Bishkek
 
 _Nov 2023 - Jan 2024_
-
-**About the project** - Project work from the Hillme company, they needed to complete their website
+About the project - Project work from the Hillme company, they needed to complete their website
 
 * Development of a business card website, implementation of new interesting design and logical solutions.
 
-Website - https://hillmevape.com/
+Website - [hillmevape.com](https://hillmevape.com/)
 
 _Technologies used:_ **PHP**, **JavaScript**, **CSS**, **HTML**, **Bootstrap** 
 
