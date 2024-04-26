@@ -14,6 +14,7 @@ _Front-end developer・JavaScript・TypeScript・React・Redux Toolkit_
 
 * [**It Academy**](http://it-academy.kg/) (Mar 2022 - Dec 2022)
 _Javascript (React)_
+
 About the project - It-academy is a programming course where I completed a 9-month Front-end developer course
 
 ## Experience
@@ -22,6 +23,7 @@ About the project - It-academy is a programming course where I completed a 9-mon
 **Front-end Developer** – Linght Code, Bishkek
 
 _Sep 2022 - Nov 2022_
+
 About the project - Linght Code is a young outsourcing company where I worked as an intern Front-end developer. We developed a CRM system for the shoe company “B-STYLE SHOES”
 
 * Improved the speed of loading and displaying all data by 40% by introducing convenient dynamic tables and writing new Axios queries
@@ -52,6 +54,7 @@ _Technologies used:_**OpenAPI**, **Material UI**, **Yup**, **Formik**, **React**
 **Front-end Developer** – Hillme, Bishkek
 
 _Nov 2023 - Jan 2024_
+
 About the project - Project work from the Hillme company, they needed to complete their website
 
 * Development of a business card website, implementation of new interesting design and logical solutions.
