@@ -38,6 +38,7 @@ _Technologies used:_ **React**, **Redux Toolkit**, **JavaScript**, **HTML**, **S
 **Front-end Developer** – Ask inс, Bishkek
 
 _Feb 2023 - Nov 2023_
+
 About the project - I joined a young startup that is developing a marketplace for the domestic market of the Kyrgyz Republic.
 
 * Optimized the speed and performance of the application using Server-Side Rendering (SSR). Reduced data transfer volume and improved SEO metrics, increasing the application's visibility in search results.
